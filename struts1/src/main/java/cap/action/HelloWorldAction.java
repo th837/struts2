@@ -12,7 +12,12 @@ public class HelloWorldAction extends ActionSupport {
     public void setUsername(String username) {
         this.username = username;
     }
+    public String sayHi(){
+        return SUCCESS;
+
+    }
     public String execute(){
         return SUCCESS;
+
     }
 }

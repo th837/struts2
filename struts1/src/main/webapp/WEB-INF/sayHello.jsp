@@ -12,9 +12,10 @@
 </head>
 <body>
 
-<form action="sayHello" method="post">
+<form action="" method="post">
 
-    <input type="text" name="username">
+    <input type="text" name="">
+    <input type="text" name="">
 
     <input type="submit" value="提交">
 </form>

@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<form action="sayHello" method="post">
+<form action="sayHi" method="post">
 
     <input type="text" name="username">
 
